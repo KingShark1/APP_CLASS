@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./home/kingshark/College_Work/APP_CLASS/Assignement_1"
+    ],
+    "python.analysis.extraPaths": [
+        "./home/kingshark/College_Work/APP_CLASS/Assignement_1"
+    ],
+}
